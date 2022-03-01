@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /games/
+
+Sitemap: https://1v1lolunblocked.com/sitemap.xml
